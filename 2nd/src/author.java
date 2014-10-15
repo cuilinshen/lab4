@@ -1,0 +1,24 @@
+
+public class author {
+	private String authorID;
+	private String authorName;
+	private String authorAge;
+	private String authorCountry;
+	
+	public String getAuthorID(){
+		return authorID;
+	}
+	
+	public String getAuthorName(){
+		return authorName;
+	}
+	
+	public String getAuthorAge(){
+		return authorAge;
+	}
+	
+	public String getAuthorCountry(){
+		return authorCountry;
+	}
+
+}

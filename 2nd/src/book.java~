@@ -44,6 +44,3 @@ public class book {
 		this.price = price;
 	}
 }
-
-
-//well...
